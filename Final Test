@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Hoang456-crush 
-taichi232002
-/
-taichi232002
-Public
-1
-00
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-taichi232002/đồ án
-@taichi232002
-taichi232002 Create đồ án
-Latest commit f0616c5 on 10 May
- History
- 1 contributor
-60 lines (57 sloc)  2.08 KB
-  
+
 # Tên khách hàng
 while True:
     n = input("Hãy Nhập tên: ") # nhập tên khách hàng
@@ -85,17 +58,4 @@ def tt():
         print("---Thành viên vip---\n---Được giảm 10%---")
         Y = Y - (Y*0.1)
         print(f"Tổng giá tiền: {Y}")
-tt()
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-1
+
